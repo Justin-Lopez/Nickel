@@ -10,7 +10,7 @@ namespace The_Diamond_in_the_rough
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World 1");
+            Console.WriteLine("Hello World Patch");
         }
     }
 }
